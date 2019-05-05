@@ -1,0 +1,3942 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney JR">
+    <display-name lang="pt">Disney JR</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Rá Tim Bum">
+    <display-name lang="pt">TV Rá Tim Bum</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190505001200 -0300" stop="20190505002300 -0300" channel="Discovery Kids">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505002300 -0300" stop="20190505003400 -0300" channel="Discovery Kids">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003400 -0300" stop="20190505004500 -0300" channel="Discovery Kids">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505004500 -0300" stop="20190505010600 -0300" channel="Discovery Kids">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010600 -0300" stop="20190505012800 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505012800 -0300" stop="20190505013900 -0300" channel="Discovery Kids">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013900 -0300" stop="20190505015000 -0300" channel="Discovery Kids">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505015000 -0300" stop="20190505021300 -0300" channel="Discovery Kids">
+    <title lang="pt">As Aventuras do Gato de Botas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505021300 -0300" stop="20190505023600 -0300" channel="Discovery Kids">
+    <title lang="pt">My Little Pony</title>
+    <sub-title lang="pt">A Amizade é Mágica</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023600 -0300" stop="20190505025900 -0300" channel="Discovery Kids">
+    <title lang="pt">O Zoo da Zu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505025900 -0300" stop="20190505031000 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505031000 -0300" stop="20190505032100 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505032100 -0300" stop="20190505034400 -0300" channel="Discovery Kids">
+    <title lang="pt">Backyardigans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505034400 -0300" stop="20190505035500 -0300" channel="Discovery Kids">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505035500 -0300" stop="20190505040600 -0300" channel="Discovery Kids">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040600 -0300" stop="20190505041800 -0300" channel="Discovery Kids">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505041800 -0300" stop="20190505043000 -0300" channel="Discovery Kids">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505044100 -0300" channel="Discovery Kids">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505044100 -0300" stop="20190505045300 -0300" channel="Discovery Kids">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505045300 -0300" stop="20190505051600 -0300" channel="Discovery Kids">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505051600 -0300" stop="20190505053800 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053800 -0300" stop="20190505060000 -0300" channel="Discovery Kids">
+    <title lang="pt">Miss Moon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505061200 -0300" channel="Discovery Kids">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505061200 -0300" stop="20190505061900 -0300" channel="Discovery Kids">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505061900 -0300" stop="20190505062600 -0300" channel="Discovery Kids">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505062600 -0300" stop="20190505063300 -0300" channel="Discovery Kids">
+    <title lang="pt">Cantando Com Ping e Pong</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063300 -0300" stop="20190505064800 -0300" channel="Discovery Kids">
+    <title lang="pt">Zack &amp; Quack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505064800 -0300" stop="20190505070900 -0300" channel="Discovery Kids">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070900 -0300" stop="20190505073400 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073400 -0300" stop="20190505080000 -0300" channel="Discovery Kids">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505080700 -0300" channel="Discovery Kids">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080700 -0300" stop="20190505081800 -0300" channel="Discovery Kids">
+    <title lang="pt">Floogals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505081800 -0300" stop="20190505083000 -0300" channel="Discovery Kids">
+    <title lang="pt">Floogals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084100 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084100 -0300" stop="20190505085500 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505085500 -0300" stop="20190505090600 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090600 -0300" stop="20190505091700 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505091700 -0300" stop="20190505092800 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505092800 -0300" stop="20190505094000 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505094000 -0300" stop="20190505100500 -0300" channel="Discovery Kids">
+    <title lang="pt">George, o Curioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100500 -0300" stop="20190505103000 -0300" channel="Discovery Kids">
+    <title lang="pt">George, o Curioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505114000 -0300" channel="Discovery Kids">
+    <title lang="pt">Boonie Bears: Uma Viagem De Volta Para Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114000 -0300" stop="20190505120500 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120500 -0300" stop="20190505122700 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505122700 -0300" stop="20190505125700 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505125700 -0300" stop="20190505131900 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505131900 -0300" stop="20190505134300 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505134300 -0300" stop="20190505140500 -0300" channel="Discovery Kids">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140500 -0300" stop="20190505154500 -0300" channel="Discovery Kids">
+    <title lang="pt">Ponyo: Uma Amizade Que Veio Do Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505154500 -0300" stop="20190505155000 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505155000 -0300" stop="20190505155500 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505155500 -0300" stop="20190505160000 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505160500 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160500 -0300" stop="20190505163500 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163500 -0300" stop="20190505170000 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505171500 -0300" channel="Discovery Kids">
+    <title lang="pt">Barbie Dreamtopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505171500 -0300" stop="20190505172600 -0300" channel="Discovery Kids">
+    <title lang="pt">Barbie Dreamtopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505172600 -0300" stop="20190505174100 -0300" channel="Discovery Kids">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505174100 -0300" stop="20190505175600 -0300" channel="Discovery Kids">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505175600 -0300" stop="20190505180700 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180700 -0300" stop="20190505182000 -0300" channel="Discovery Kids">
+    <title lang="pt">44 Gatos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505182000 -0300" stop="20190505185000 -0300" channel="Discovery Kids">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505185000 -0300" stop="20190505185500 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505185500 -0300" stop="20190505190000 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505204600 -0300" channel="Discovery Kids">
+    <title lang="pt">O Pequeno Príncipe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505204600 -0300" stop="20190505210100 -0300" channel="Discovery Kids">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210100 -0300" stop="20190505210600 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210600 -0300" stop="20190505211100 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505211100 -0300" stop="20190505211600 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505211600 -0300" stop="20190505212300 -0300" channel="Discovery Kids">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505212300 -0300" stop="20190505215200 -0300" channel="Discovery Kids">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505215200 -0300" stop="20190505221200 -0300" channel="Discovery Kids">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505221200 -0300" stop="20190505221700 -0300" channel="Discovery Kids">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505221700 -0300" stop="20190505224700 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505224700 -0300" stop="20190505231400 -0300" channel="Discovery Kids">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505231400 -0300" stop="20190505232900 -0300" channel="Discovery Kids">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505232900 -0300" stop="20190505233400 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233400 -0300" stop="20190505233900 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233900 -0300" stop="20190505234800 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234800 -0300" stop="20190505235300 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505235300 -0300" stop="20190505235800 -0300" channel="Discovery Kids">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505235800 -0300" stop="20190506001000 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505004500 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505004500 -0300" stop="20190505011500 -0300" channel="Gloob">
+    <title lang="pt">Gaby Estrella</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505011500 -0300" stop="20190505013000 -0300" channel="Gloob">
+    <title lang="pt">Esquadrão Bizarro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="Gloob">
+    <title lang="pt">Thunderbirds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505021500 -0300" channel="Gloob">
+    <title lang="pt">Tem Criança na Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505021500 -0300" stop="20190505023000 -0300" channel="Gloob">
+    <title lang="pt">Tem Criança na Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505024500 -0300" channel="Gloob">
+    <title lang="pt">Zack e Bud</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505024500 -0300" stop="20190505030000 -0300" channel="Gloob">
+    <title lang="pt">Zack e Bud</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505031500 -0300" channel="Gloob">
+    <title lang="pt">Click</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505031500 -0300" stop="20190505033000 -0300" channel="Gloob">
+    <title lang="pt">Click</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Gloob">
+    <title lang="pt">Avatars</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505041500 -0300" channel="Gloob">
+    <title lang="pt">Tronquinho e Pão de Queijo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505041500 -0300" stop="20190505043000 -0300" channel="Gloob">
+    <title lang="pt">Tronquinho e Pão de Queijo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Gloob">
+    <title lang="pt">Pac Man e as Aventuras Fantasmagóricas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Gloob">
+    <title lang="pt">Zorro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505054500 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505054500 -0300" stop="20190505060000 -0300" channel="Gloob">
+    <title lang="pt">Tem Criança na Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Gloob">
+    <title lang="pt">Mônica Chef</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Gloob">
+    <title lang="pt">Gaby Estrella</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505070500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070500 -0300" stop="20190505071500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505071500 -0300" stop="20190505073000 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505073500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073500 -0300" stop="20190505074500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505074500 -0300" stop="20190505075500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505075500 -0300" stop="20190505080000 -0300" channel="Gloob">
+    <title lang="pt">Clube da Anittinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084500 -0300" channel="Gloob">
+    <title lang="pt">Esquadrão Bizarro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084500 -0300" stop="20190505090000 -0300" channel="Gloob">
+    <title lang="pt">Esquadrão Bizarro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505091500 -0300" channel="Gloob">
+    <title lang="pt">Angry Birds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505091500 -0300" stop="20190505093000 -0300" channel="Gloob">
+    <title lang="pt">Angry Birds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505110000 -0300" channel="Gloob">
+    <title lang="pt">Batalha Das Torres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous</title>
+    <sub-title lang="pt">As Aventuras de Ladybug</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505114500 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114500 -0300" stop="20190505120000 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505122500 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505122500 -0300" stop="20190505123000 -0300" channel="Gloob">
+    <title lang="pt">Clube da Anittinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505134500 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505134500 -0300" stop="20190505143000 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505143000 -0300" stop="20190505151500 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505151500 -0300" stop="20190505160000 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505164500 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505164500 -0300" stop="20190505173000 -0300" channel="Gloob">
+    <title lang="pt">Chica Vampiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505173500 -0300" channel="Gloob">
+    <title lang="pt">Clube da Anittinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173500 -0300" stop="20190505180000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous</title>
+    <sub-title lang="pt">As Aventuras de Ladybug</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous</title>
+    <sub-title lang="pt">As Aventuras de Ladybug</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505184500 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505184500 -0300" stop="20190505190000 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505191500 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505191500 -0300" stop="20190505193000 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505193500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193500 -0300" stop="20190505194500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505194500 -0300" stop="20190505200000 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505200500 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200500 -0300" stop="20190505201000 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505201000 -0300" stop="20190505203000 -0300" channel="Gloob">
+    <title lang="pt">Hora do Gloobinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505210000 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210000 -0300" stop="20190505213000 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505213000 -0300" stop="20190505215500 -0300" channel="Gloob">
+    <title lang="pt">D.P.A.</title>
+    <sub-title lang="pt">Detetives do Prédio Azul</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505215500 -0300" stop="20190505220000 -0300" channel="Gloob">
+    <title lang="pt">Clube da Anittinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505222500 -0300" channel="Gloob">
+    <title lang="pt">Escola de Gênios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505222500 -0300" stop="20190505225000 -0300" channel="Gloob">
+    <title lang="pt">Escola de Gênios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505225000 -0300" stop="20190505231500 -0300" channel="Gloob">
+    <title lang="pt">Escola de Gênios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505231500 -0300" stop="20190505234000 -0300" channel="Gloob">
+    <title lang="pt">Escola de Gênios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234000 -0300" stop="20190506001500 -0300" channel="Gloob">
+    <title lang="pt">Escola de Gênios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505015700 -0300" stop="20190505033100 -0300" channel="Disney Channel">
+    <title lang="pt">Minha Irmã Invisível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033100 -0300" stop="20190505035800 -0300" channel="Disney Channel">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505035800 -0300" stop="20190505042900 -0300" channel="Disney Channel">
+    <title lang="pt">As Enroladas Aventuras Da Rapunzel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505042900 -0300" stop="20190505045900 -0300" channel="Disney Channel">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505045900 -0300" stop="20190505053000 -0300" channel="Disney Channel">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Disney Channel">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Disney Channel">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Disney Channel">
+    <title lang="pt">Enrolados Outra Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505083000 -0300" channel="Disney Channel">
+    <title lang="pt">Tinker Bell: O Segredo das Fadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505090000 -0300" channel="Disney Channel">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505093000 -0300" channel="Disney Channel">
+    <title lang="pt">Ducktales</title>
+    <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505100000 -0300" channel="Disney Channel">
+    <title lang="pt">As Enroladas Aventuras Da Rapunzel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505103000 -0300" channel="Disney Channel">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505110000 -0300" channel="Disney Channel">
+    <title lang="pt">Star vs. as Forças do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Disney Channel">
+    <title lang="pt">Hotel Transylvania \u2013 A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="Disney Channel">
+    <title lang="pt">Kim Possible</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Disney Channel">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Disney Channel">
+    <title lang="pt">Glitter Model</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505150000 -0300" channel="Disney Channel">
+    <title lang="pt">Zootopia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505153000 -0300" channel="Disney Channel">
+    <title lang="pt">Bizaardvark</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="Disney Channel">
+    <title lang="pt">A Casa da Raven</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505174500 -0300" channel="Disney Channel">
+    <title lang="pt">Swap</title>
+    <sub-title lang="pt">A Troca</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505174500 -0300" stop="20190505193000 -0300" channel="Disney Channel">
+    <title lang="pt">Freaky Friday</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505200000 -0300" channel="Disney Channel">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505220000 -0300" channel="Disney Channel">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505234500 -0300" channel="Disney Channel">
+    <title lang="pt">Swap</title>
+    <sub-title lang="pt">A Troca</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234500 -0300" stop="20190506014500 -0300" channel="Disney Channel">
+    <title lang="pt">Tinker Bell: O Segredo das Fadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003000 -0300" stop="20190505010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010000 -0300" stop="20190505013000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bella e Os Bulldogs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505023000 -0300" channel="Nickelodeon">
+    <title lang="pt">A Família Hathaways</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505033000 -0300" channel="Nickelodeon">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505043000 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Breadwinners</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bunsen É Uma Fera!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Padrinhos Mágicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505090000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="Nickelodeon">
+    <title lang="pt">School of Rock</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505133000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Thundermans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505140000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Thundermans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Esquadrão de Cavaleiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505143000 -0300" stop="20190505150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Esquadrão de Cavaleiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505153000 -0300" channel="Nickelodeon">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="Nickelodeon">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505163000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Chocolix</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Papaya Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bobolândia Monstrolândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bobolândia Monstrolândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505202800 -0300" channel="Nickelodeon">
+    <title lang="pt">Star Falls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505202800 -0300" stop="20190505205300 -0300" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505205300 -0300" stop="20190505211700 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505211700 -0300" stop="20190505214100 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505214100 -0300" stop="20190505220500 -0300" channel="Nickelodeon">
+    <title lang="pt">Esquadrão de Cavaleiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220500 -0300" stop="20190505222900 -0300" channel="Nickelodeon">
+    <title lang="pt">Esquadrão de Cavaleiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505222900 -0300" stop="20190505225300 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505225300 -0300" stop="20190505231700 -0300" channel="Nickelodeon">
+    <title lang="pt">iCarly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505231700 -0300" stop="20190505234200 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234200 -0300" stop="20190506000600 -0300" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505002100 -0300" stop="20190505004400 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505004400 -0300" stop="20190505010700 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010700 -0300" stop="20190505011800 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505011800 -0300" stop="20190505013000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505014100 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505014100 -0300" stop="20190505015400 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505015400 -0300" stop="20190505020500 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020500 -0300" stop="20190505021600 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505021600 -0300" stop="20190505022900 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505022900 -0300" stop="20190505024100 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505024100 -0300" stop="20190505025300 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505025300 -0300" stop="20190505030500 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030500 -0300" stop="20190505031600 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505031600 -0300" stop="20190505032800 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505032800 -0300" stop="20190505034000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505034000 -0300" stop="20190505035300 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505035300 -0300" stop="20190505040400 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040400 -0300" stop="20190505042900 -0300" channel="Cartoon Network">
+    <title lang="pt">Samurai Jack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505042900 -0300" stop="20190505044000 -0300" channel="Cartoon Network">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505044000 -0300" stop="20190505050300 -0300" channel="Cartoon Network">
+    <title lang="pt">Mutante Rex</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050300 -0300" stop="20190505051400 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505051400 -0300" stop="20190505052600 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505052600 -0300" stop="20190505053500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053500 -0300" stop="20190505054800 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505054800 -0300" stop="20190505060000 -0300" channel="Cartoon Network">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505071500 -0300" channel="Cartoon Network">
+    <title lang="pt">Monster High: Monster Fusion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505071500 -0300" stop="20190505072300 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505072300 -0300" stop="20190505073000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505074200 -0300" channel="Cartoon Network">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505074200 -0300" stop="20190505075800 -0300" channel="Cartoon Network">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505075800 -0300" stop="20190505080000 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505081500 -0300" channel="Cartoon Network">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505081500 -0300" stop="20190505083000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084000 -0300" channel="Cartoon Network">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084000 -0300" stop="20190505084500 -0300" channel="Cartoon Network">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084500 -0300" stop="20190505085300 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505085300 -0300" stop="20190505090000 -0300" channel="Cartoon Network">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505093000 -0300" channel="Cartoon Network">
+    <title lang="pt">Dragões: Corrida Até O Limite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505094200 -0300" channel="Cartoon Network">
+    <title lang="pt">Acampamento de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505094200 -0300" stop="20190505095800 -0300" channel="Cartoon Network">
+    <title lang="pt">Acampamento de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505095800 -0300" stop="20190505100000 -0300" channel="Cartoon Network">
+    <title lang="pt">Acampamento de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505101600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505101600 -0300" stop="20190505103000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505110000 -0300" channel="Cartoon Network">
+    <title lang="pt">Steven Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505110700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110700 -0300" stop="20190505111400 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505111400 -0300" stop="20190505111500 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505111500 -0300" stop="20190505112000 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505112000 -0300" stop="20190505112800 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505112800 -0300" stop="20190505113600 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113600 -0300" stop="20190505114300 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114300 -0300" stop="20190505114800 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114800 -0300" stop="20190505114900 -0300" channel="Cartoon Network">
+    <title lang="pt">Mônica Toy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114900 -0300" stop="20190505115600 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505115600 -0300" stop="20190505120000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505120300 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120300 -0300" stop="20190505121600 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505121600 -0300" stop="20190505123000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505123700 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123700 -0300" stop="20190505124400 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505124400 -0300" stop="20190505125600 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505125600 -0300" stop="20190505130000 -0300" channel="Cartoon Network">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505131200 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505131200 -0300" stop="20190505132800 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505132800 -0300" stop="20190505133000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505134100 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505134100 -0300" stop="20190505135700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505135700 -0300" stop="20190505140000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505141100 -0300" channel="Cartoon Network">
+    <title lang="pt">Historietas Assombradas para Crianças Malcriadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505141100 -0300" stop="20190505142700 -0300" channel="Cartoon Network">
+    <title lang="pt">Historietas Assombradas para Crianças Malcriadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505142700 -0300" stop="20190505143000 -0300" channel="Cartoon Network">
+    <title lang="pt">Historietas Assombradas para Crianças Malcriadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505143000 -0300" stop="20190505144100 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505144100 -0300" stop="20190505145700 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505145700 -0300" stop="20190505150000 -0300" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505151600 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505151600 -0300" stop="20190505153000 -0300" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505154200 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505154200 -0300" stop="20190505155800 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505155800 -0300" stop="20190505160000 -0300" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505161100 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505161100 -0300" stop="20190505162700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505162700 -0300" stop="20190505163000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505164200 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505164200 -0300" stop="20190505165800 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505165800 -0300" stop="20190505170000 -0300" channel="Cartoon Network">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505171600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505171600 -0300" stop="20190505173000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505174100 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505174100 -0300" stop="20190505175700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505175700 -0300" stop="20190505180000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505180500 -0300" channel="Cartoon Network">
+    <title lang="pt">O Sur Real Mundo de Any Malu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180500 -0300" stop="20190505183000 -0300" channel="Cartoon Network">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505194500 -0300" channel="Cartoon Network">
+    <title lang="pt">Monster High: Monster Fusion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505194500 -0300" stop="20190505200000 -0300" channel="Cartoon Network">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505214500 -0300" channel="Cartoon Network">
+    <title lang="pt">Uma Aventura Lego</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505214500 -0300" stop="20190505215700 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505215700 -0300" stop="20190505220000 -0300" channel="Cartoon Network">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505221600 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505221600 -0300" stop="20190505223000 -0300" channel="Cartoon Network">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505224600 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505224600 -0300" stop="20190505230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190505231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505231100 -0300" stop="20190505232700 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505232700 -0300" stop="20190505233000 -0300" channel="Cartoon Network">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233000 -0300" stop="20190505234200 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234200 -0300" stop="20190505235800 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505235800 -0300" stop="20190506000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505001300 -0300" stop="20190505023000 -0300" channel="Disney XD">
+    <title lang="pt">Star Wars VII: O Despertar da Força</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Disney XD">
+    <title lang="pt">Pegadinha!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505033000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Disney XD">
+    <title lang="pt">Yo Kai Watch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505043000 -0300" channel="Disney XD">
+    <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Disney XD">
+    <title lang="pt">Acampamento Lakebottom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Disney XD">
+    <title lang="pt">Fangbone</title>
+    <sub-title lang="pt">O Menino Bárbaro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505074500 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505074500 -0300" stop="20190505080000 -0300" channel="Disney XD">
+    <title lang="pt">Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Disney XD">
+    <title lang="pt">Mech-X4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084500 -0300" channel="Disney XD">
+    <title lang="pt">Boris e Rufus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084500 -0300" stop="20190505090000 -0300" channel="Disney XD">
+    <title lang="pt">Penn Zero: Quase Herói</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505093000 -0300" channel="Disney XD">
+    <title lang="pt">Marvel Spider-Man</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505100000 -0300" channel="Disney XD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505110000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505120000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505130000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505140000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505150000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505160000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505163000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505183000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505193000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505200000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505203000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505210000 -0300" channel="Disney XD">
+    <title lang="pt">A Lei de Milo Murphy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210000 -0300" stop="20190505220000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190506000000 -0300" channel="Disney XD">
+    <title lang="pt">Phineas e Ferb: Através da 2ª Dimensão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505013000 -0300" channel="Disney JR">
+    <title lang="pt">Irmão Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505023000 -0300" channel="Disney JR">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505033000 -0300" channel="Disney JR">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Disney JR">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505043000 -0300" channel="Disney JR">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Disney JR">
+    <title lang="pt">As Enroladas Aventuras Da Rapunzel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Disney JR">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Disney JR">
+    <title lang="pt">Morko e Mali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Disney JR">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505073500 -0300" channel="Disney JR">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073500 -0300" stop="20190505074500 -0300" channel="Disney JR">
+    <title lang="pt">Simon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505074500 -0300" stop="20190505080000 -0300" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505094500 -0300" channel="Disney JR">
+    <title lang="pt">Enrolados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505094500 -0300" stop="20190505100000 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505101500 -0300" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505101500 -0300" stop="20190505103000 -0300" channel="Disney JR">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505104500 -0300" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505104500 -0300" stop="20190505110000 -0300" channel="Disney JR">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Disney JR">
+    <title lang="pt">Morko e Mali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505130500 -0300" channel="Disney JR">
+    <title lang="pt">O Diário de Mika</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130500 -0300" stop="20190505131500 -0300" channel="Disney JR">
+    <title lang="pt">O Diário de Mika</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505131500 -0300" stop="20190505133000 -0300" channel="Disney JR">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505140000 -0300" channel="Disney JR">
+    <title lang="pt">As Enroladas Aventuras Da Rapunzel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505153000 -0300" channel="Disney JR">
+    <title lang="pt">Lilo &amp; Stitch 2: O Stitch Deu Defeito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="Disney JR">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505163000 -0300" channel="Disney JR">
+    <title lang="pt">Doutora Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Disney JR">
+    <title lang="pt">Princesinha Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="Disney JR">
+    <title lang="pt">Elena de Avalor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505180000 -0300" channel="Disney JR">
+    <title lang="pt">Junior Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Disney JR">
+    <title lang="pt">A Guarda do Leão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505184500 -0300" channel="Disney JR">
+    <title lang="pt">Puppy Dog Pals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505184500 -0300" stop="20190505190000 -0300" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505191500 -0300" channel="Disney JR">
+    <title lang="pt">Muppet Babies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505191500 -0300" stop="20190505193000 -0300" channel="Disney JR">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505194500 -0300" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505194500 -0300" stop="20190505200000 -0300" channel="Disney JR">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505214500 -0300" channel="Disney JR">
+    <title lang="pt">Enrolados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505214500 -0300" stop="20190505220000 -0300" channel="Disney JR">
+    <title lang="pt">PJ Masks</title>
+    <sub-title lang="pt">Heróis de Pijama</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505223000 -0300" channel="Disney JR">
+    <title lang="pt">Morko e Mali</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505230000 -0300" channel="Disney JR">
+    <title lang="pt">Vampirina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190505233000 -0300" channel="Disney JR">
+    <title lang="pt">Mickey</title>
+    <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233000 -0300" stop="20190506000000 -0300" channel="Disney JR">
+    <title lang="pt">Junior Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505003000 -0300" channel="Nick Jr.">
+    <title lang="pt">Bubble Guppies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003000 -0300" stop="20190505010000 -0300" channel="Nick Jr.">
+    <title lang="pt">Bubble Guppies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010000 -0300" stop="20190505013000 -0300" channel="Nick Jr.">
+    <title lang="pt">Dora e seus Amigos na Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="Nick Jr.">
+    <title lang="pt">Dora e seus Amigos na Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505023000 -0300" channel="Nick Jr.">
+    <title lang="pt">Team Umizoomi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Nick Jr.">
+    <title lang="pt">Team Umizoomi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505033000 -0300" channel="Nick Jr.">
+    <title lang="pt">Dora, a Aventureira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Nick Jr.">
+    <title lang="pt">Dora, a Aventureira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505043000 -0300" channel="Nick Jr.">
+    <title lang="pt">O Dia Que Henry Encontrou</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Nick Jr.">
+    <title lang="pt">Digby, o Dragão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Nick Jr.">
+    <title lang="pt">Wanda e os Aliens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Nick Jr.">
+    <title lang="pt">Bubble Guppies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Nick Jr.">
+    <title lang="pt">Rusty Rivets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Nick Jr.">
+    <title lang="pt">Max &amp; Ruby</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="Nick Jr.">
+    <title lang="pt">Kid-E-Cats</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505080000 -0300" channel="Nick Jr.">
+    <title lang="pt">Blaze and The Monster Machines</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Nick Jr.">
+    <title lang="pt">Sunny Day</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505090000 -0300" channel="Nick Jr.">
+    <title lang="pt">Butterbean's Cafe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505093000 -0300" channel="Nick Jr.">
+    <title lang="pt">Nella, Uma Princesa Corajosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505093000 -0300" stop="20190505100000 -0300" channel="Nick Jr.">
+    <title lang="pt">Blaze and The Monster Machines</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505103000 -0300" channel="Nick Jr.">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505110000 -0300" channel="Nick Jr.">
+    <title lang="pt">Rusty Rivets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Nick Jr.">
+    <title lang="pt">Mutt &amp; Stuff</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="Nick Jr.">
+    <title lang="pt">Tamas &amp; Rajas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Nick Jr.">
+    <title lang="pt">Shimmer &amp; Shine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Nick Jr.">
+    <title lang="pt">Shimmer &amp; Shine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505133000 -0300" channel="Nick Jr.">
+    <title lang="pt">Nella, Uma Princesa Corajosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505140000 -0300" channel="Nick Jr.">
+    <title lang="pt">Kiva Pode Fazer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505143000 -0300" channel="Nick Jr.">
+    <title lang="pt">Kid-E-Cats</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505143000 -0300" stop="20190505150000 -0300" channel="Nick Jr.">
+    <title lang="pt">Sunny Day</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505153000 -0300" channel="Nick Jr.">
+    <title lang="pt">Shimmer &amp; Shine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="Nick Jr.">
+    <title lang="pt">Patrulha Canina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505163000 -0300" channel="Nick Jr.">
+    <title lang="pt">Kid-E-Cats</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Nick Jr.">
+    <title lang="pt">Blaze and The Monster Machines</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="Nick Jr.">
+    <title lang="pt">Rusty Rivets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505180000 -0300" channel="Nick Jr.">
+    <title lang="pt">Top Wing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Nick Jr.">
+    <title lang="pt">Sunny Day</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505190000 -0300" channel="Nick Jr.">
+    <title lang="pt">Universo Z</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505193000 -0300" channel="Nick Jr.">
+    <title lang="pt">Mutt &amp; Stuff</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505200000 -0300" channel="Nick Jr.">
+    <title lang="pt">Nella, Uma Princesa Corajosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505203000 -0300" channel="Nick Jr.">
+    <title lang="pt">Sunny Day</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505210000 -0300" channel="Nick Jr.">
+    <title lang="pt">Blaze and The Monster Machines</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210000 -0300" stop="20190505213000 -0300" channel="Nick Jr.">
+    <title lang="pt">Blaze and The Monster Machines</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505213000 -0300" stop="20190505220000 -0300" channel="Nick Jr.">
+    <title lang="pt">Nella, Uma Princesa Corajosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505223000 -0300" channel="Nick Jr.">
+    <title lang="pt">Shimmer &amp; Shine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505230000 -0300" channel="Nick Jr.">
+    <title lang="pt">Kiva Pode Fazer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190505233000 -0300" channel="Nick Jr.">
+    <title lang="pt">Regal Academy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233000 -0300" stop="20190506000000 -0300" channel="Nick Jr.">
+    <title lang="pt">Little Charmers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505002000 -0300" channel="Boomerang">
+    <title lang="pt">O Que Há de Novo Scooby-Doo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505002000 -0300" stop="20190505003000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003000 -0300" stop="20190505010000 -0300" channel="Boomerang">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010000 -0300" stop="20190505020000 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505023000 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Boomerang">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505040000 -0300" channel="Boomerang">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505043000 -0300" channel="Boomerang">
+    <title lang="pt">O Que Há de Novo Scooby-Doo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Boomerang">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Boomerang">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505080000 -0300" channel="Boomerang">
+    <title lang="pt">Sítio do Picapau Amarelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Boomerang">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084500 -0300" channel="Boomerang">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084500 -0300" stop="20190505095500 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505095500 -0300" stop="20190505100000 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505103000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505105500 -0300" channel="Boomerang">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505105500 -0300" stop="20190505110000 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Boomerang">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Boomerang">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505133000 -0300" channel="Boomerang">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505140000 -0300" channel="Boomerang">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505151500 -0300" channel="Boomerang">
+    <title lang="pt">Poli, O Fusquinha da Polícia em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505151500 -0300" stop="20190505160000 -0300" channel="Boomerang">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505162000 -0300" channel="Boomerang">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505162000 -0300" stop="20190505163000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Boomerang">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505171500 -0300" channel="Boomerang">
+    <title lang="pt">Monster High</title>
+    <sub-title lang="pt">Aventuras do Esquadrão Monstro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505171500 -0300" stop="20190505174000 -0300" channel="Boomerang">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505174000 -0300" stop="20190505174500 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505174500 -0300" stop="20190505180000 -0300" channel="Boomerang">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Boomerang">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505190000 -0300" channel="Boomerang">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505192500 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505192500 -0300" stop="20190505193000 -0300" channel="Boomerang">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505193000 -0300" stop="20190505195000 -0300" channel="Boomerang">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505195000 -0300" stop="20190505200000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505203000 -0300" channel="Boomerang">
+    <title lang="pt">Contos da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505204500 -0300" channel="Boomerang">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505204500 -0300" stop="20190505214500 -0300" channel="Boomerang">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505214500 -0300" stop="20190505220000 -0300" channel="Boomerang">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505223000 -0300" channel="Boomerang">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505230000 -0300" channel="Boomerang">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190505233000 -0300" channel="Boomerang">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233000 -0300" stop="20190506000000 -0300" channel="Boomerang">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505002000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Dj Cão e a Loja de Discos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505002000 -0300" stop="20190505003500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Yoga Com Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003500 -0300" stop="20190505004000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">A Mansão Maluca do Professor Ambrósio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505004000 -0300" stop="20190505004500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Isso Disso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505004500 -0300" stop="20190505010000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Cocoricó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010000 -0300" stop="20190505013000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Vila Sésamo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Mundo da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505022000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Pratinho da Iaiá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505022000 -0300" stop="20190505023500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Repórter Rá Teen Bum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023500 -0300" stop="20190505024500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Eu e o Quarteto Apavorante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505024500 -0300" stop="20190505025000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Blog do Geninho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505025000 -0300" stop="20190505030000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Nilba e os Desastronautas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505033000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505042000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">X-Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505042000 -0300" stop="20190505044000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Dj Cão e a Loja de Discos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505044000 -0300" stop="20190505045000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">O Papel Das Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505045000 -0300" stop="20190505050000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Escola pra Cachorro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505051000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Física Divertida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505051000 -0300" stop="20190505051500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Isso Disso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505051500 -0300" stop="20190505052000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Anabel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505052000 -0300" stop="20190505053000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Astro Não Mia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505054500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Os Cupins</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505054500 -0300" stop="20190505055000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Tchibum TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505055000 -0300" stop="20190505060000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">T.R.E.X.C.I.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Musical Rá Tim Bum!</title>
+    <sub-title lang="pt">Piolhos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505070000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Baú de Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505073000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Vila Sésamo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505073000 -0300" stop="20190505080000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Mundo da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505081500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Repórter Rá Teen Bum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505081500 -0300" stop="20190505083000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Yoga Com Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505084000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Astro Não Mia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084000 -0300" stop="20190505084500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Isso Disso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505084500 -0300" stop="20190505090000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Cocoricó Conta Clássicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505100000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Teatro Rá Tim Bum!: A Semente da Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505103000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505110000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">X-Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505113000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Mundo da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505120000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505122000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Dj Cão e a Loja de Discos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505122000 -0300" stop="20190505124000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Pratinho da Iaiá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505124000 -0300" stop="20190505130000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Yoga Com Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505131000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Nilba e os Desastronautas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505131000 -0300" stop="20190505132000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Traçando Arte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505132000 -0300" stop="20190505133000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Astro Não Mia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505134500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Escola pra Cachorro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505134500 -0300" stop="20190505150000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Quintal da Cultura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505153000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Musical Rá Tim Bum!: Nervoso</title>
+    <sub-title lang="pt">O Médico que Tinha a Letra Bonita</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Baú de Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505163000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505164500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Os Cupins</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505164500 -0300" stop="20190505170000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Cocoricó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Vila Sésamo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505180000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">X-Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Mundo da Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505190000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505192000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Dj Cão e a Loja de Discos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505192000 -0300" stop="20190505194000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Pratinho da Iaiá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505194000 -0300" stop="20190505200000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Yoga Com Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505201000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Eu e o Quarteto Apavorante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505201000 -0300" stop="20190505202000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Nilba e os Desastronautas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505202000 -0300" stop="20190505203000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Traçando Arte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505204000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">T.R.E.X.C.I.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505204000 -0300" stop="20190505205000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">O Papel Das Histórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505205000 -0300" stop="20190505210000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Astro Não Mia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210000 -0300" stop="20190505213000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Musical Rá Tim Bum!</title>
+    <sub-title lang="pt">Gangorra</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505213000 -0300" stop="20190505220000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505221500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Os Cupins</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505221500 -0300" stop="20190505222500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Física Divertida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505222500 -0300" stop="20190505223000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Isso Disso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505224500 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Anabel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505224500 -0300" stop="20190505230000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190506000000 -0300" channel="TV Rá Tim Bum">
+    <title lang="pt">Teatro Rá Tim Bum!: Zero</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505000000 -0300" stop="20190505003000 -0300" channel="Tooncast">
+    <title lang="pt">Bugs Bunny &amp; Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505003000 -0300" stop="20190505010000 -0300" channel="Tooncast">
+    <title lang="pt">Baby Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505010000 -0300" stop="20190505013000 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505013000 -0300" stop="20190505020000 -0300" channel="Tooncast">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505020000 -0300" stop="20190505023000 -0300" channel="Tooncast">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505023000 -0300" stop="20190505030000 -0300" channel="Tooncast">
+    <title lang="pt">Steven Spielberg Presents Freakazoid!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505030000 -0300" stop="20190505031000 -0300" channel="Tooncast">
+    <title lang="pt">Mucha Lucha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505031000 -0300" stop="20190505033000 -0300" channel="Tooncast">
+    <title lang="pt">Os Sábados Secretos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505033000 -0300" stop="20190505040000 -0300" channel="Tooncast">
+    <title lang="pt">Mutante Rex</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505040000 -0300" stop="20190505041000 -0300" channel="Tooncast">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505041000 -0300" stop="20190505043000 -0300" channel="Tooncast">
+    <title lang="pt">Samurai Jack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505043000 -0300" stop="20190505050000 -0300" channel="Tooncast">
+    <title lang="pt">Megas XLR</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505050000 -0300" stop="20190505053000 -0300" channel="Tooncast">
+    <title lang="pt">Batman</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505053000 -0300" stop="20190505060000 -0300" channel="Tooncast">
+    <title lang="pt">Liga da Justiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505060000 -0300" stop="20190505063000 -0300" channel="Tooncast">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505063000 -0300" stop="20190505064500 -0300" channel="Tooncast">
+    <title lang="pt">Mgm Favorites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505064500 -0300" stop="20190505070000 -0300" channel="Tooncast">
+    <title lang="pt">Popeye</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505070000 -0300" stop="20190505080000 -0300" channel="Tooncast">
+    <title lang="pt">Hora HB</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505080000 -0300" stop="20190505083000 -0300" channel="Tooncast">
+    <title lang="pt">Manda Chuva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505083000 -0300" stop="20190505090000 -0300" channel="Tooncast">
+    <title lang="pt">O Pequeno Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505090000 -0300" stop="20190505100000 -0300" channel="Tooncast">
+    <title lang="pt">Megas XLR</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505100000 -0300" stop="20190505101500 -0300" channel="Tooncast">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505101500 -0300" stop="20190505103000 -0300" channel="Tooncast">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505103000 -0300" stop="20190505104500 -0300" channel="Tooncast">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505104500 -0300" stop="20190505110000 -0300" channel="Tooncast">
+    <title lang="pt">Mike, Lu e Og</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505110000 -0300" stop="20190505111500 -0300" channel="Tooncast">
+    <title lang="pt">A Vida e Aventuras de Juniper Lee</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505111500 -0300" stop="20190505113000 -0300" channel="Tooncast">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505113000 -0300" stop="20190505114500 -0300" channel="Tooncast">
+    <title lang="pt">Jonas, o Robô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505114500 -0300" stop="20190505120000 -0300" channel="Tooncast">
+    <title lang="pt">Chowder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505120000 -0300" stop="20190505123000 -0300" channel="Tooncast">
+    <title lang="pt">Bugs Bunny &amp; Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505123000 -0300" stop="20190505130000 -0300" channel="Tooncast">
+    <title lang="pt">Baby Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505130000 -0300" stop="20190505133000 -0300" channel="Tooncast">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505133000 -0300" stop="20190505140000 -0300" channel="Tooncast">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505140000 -0300" stop="20190505143000 -0300" channel="Tooncast">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505143000 -0300" stop="20190505150000 -0300" channel="Tooncast">
+    <title lang="pt">Steven Spielberg Presents Freakazoid!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505150000 -0300" stop="20190505151000 -0300" channel="Tooncast">
+    <title lang="pt">Mucha Lucha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505151000 -0300" stop="20190505153000 -0300" channel="Tooncast">
+    <title lang="pt">Os Sábados Secretos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505153000 -0300" stop="20190505160000 -0300" channel="Tooncast">
+    <title lang="pt">Mutante Rex</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505160000 -0300" stop="20190505161000 -0300" channel="Tooncast">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505161000 -0300" stop="20190505163000 -0300" channel="Tooncast">
+    <title lang="pt">Samurai Jack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505163000 -0300" stop="20190505170000 -0300" channel="Tooncast">
+    <title lang="pt">Megas XLR</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505170000 -0300" stop="20190505173000 -0300" channel="Tooncast">
+    <title lang="pt">Batman</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505173000 -0300" stop="20190505180000 -0300" channel="Tooncast">
+    <title lang="pt">Liga da Justiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505180000 -0300" stop="20190505183000 -0300" channel="Tooncast">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505183000 -0300" stop="20190505184500 -0300" channel="Tooncast">
+    <title lang="pt">Mgm Favorites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505184500 -0300" stop="20190505190000 -0300" channel="Tooncast">
+    <title lang="pt">Popeye</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505190000 -0300" stop="20190505200000 -0300" channel="Tooncast">
+    <title lang="pt">Hora HB</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505200000 -0300" stop="20190505203000 -0300" channel="Tooncast">
+    <title lang="pt">Manda Chuva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505203000 -0300" stop="20190505210000 -0300" channel="Tooncast">
+    <title lang="pt">O Pequeno Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505210000 -0300" stop="20190505220000 -0300" channel="Tooncast">
+    <title lang="pt">Megas XLR</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505220000 -0300" stop="20190505221500 -0300" channel="Tooncast">
+    <title lang="pt">O Acampamento de Lazlo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505221500 -0300" stop="20190505223000 -0300" channel="Tooncast">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505223000 -0300" stop="20190505224500 -0300" channel="Tooncast">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505224500 -0300" stop="20190505230000 -0300" channel="Tooncast">
+    <title lang="pt">Mike, Lu e Og</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505230000 -0300" stop="20190505231500 -0300" channel="Tooncast">
+    <title lang="pt">A Vida e Aventuras de Juniper Lee</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505231500 -0300" stop="20190505233000 -0300" channel="Tooncast">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505233000 -0300" stop="20190505234500 -0300" channel="Tooncast">
+    <title lang="pt">Jonas, o Robô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190505234500 -0300" stop="20190506000000 -0300" channel="Tooncast">
+    <title lang="pt">Chowder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
